@@ -1,0 +1,19 @@
+2D Topdown RPG
+Hund klaut Hausaufgaben
+Taschenrechner als Schild -> Schaden kann aufgeladen werden
+Taschenrechner hat max Kapazität -> wenn drüber, dann nimmt der Held Schaden
+Zirkel als Schwert
+Schild kann geblockten Schaden in den Zirkel laden für mehr schaden
+Kreisbewegung
+Dungeoncrawler
+Papierbälle Strohhalm als Ranged weapon
+
+Gegner:
+Slime -> spuckt auf den Held und läuft weg. Lässt Slimetrail auf dem Boden
+Ratte klaut equipment, rennt schnell weg
+Fetter Waschbär mit Gattling Gun die Bleistifte verschießt
+Hamster mit Lineal -> wenig Schaden und HP, tritt in großen Mengen auf, rennt aus Hamserhöhle raus
+Ferret mit Schild der Kontert angriffe und kann stunnen
+
+Aufbau:
+Jedes 5te Level ein Boss, welcher eine Variation eines Tiers ist
